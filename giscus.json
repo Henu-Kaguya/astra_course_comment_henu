@@ -1,0 +1,10 @@
+{
+  "origins": [
+    "https://henu.hodaru.com",
+    "http://localhost:4321",
+    "http://localhost:3000"
+  ],
+  "originsRegex": [
+    "^http://localhost:[0-9]+"
+  ]
+}
